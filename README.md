@@ -22,6 +22,8 @@
 
 ### WorkBuddy
 
+已公开发布：[在 WorkBuddy 查看「老王 GitHub 副业雷达」](https://www.workbuddy.cn/share/asset?shareCode=jdLxbnlcyWSiZkLIXY830Z&sig=EuU821gq6aEGfk4Z)，公开开发者名称为「中年老王学AI」。
+
 使用本项目单独打包的 `laowang-github-sidehustle-workbuddy.zip`。打开「专家·技能·连接器 → 技能 → 添加技能 → 上传技能」导入，再在对话中描述需求。
 
 本地导入与公开市场上架是不同流程。市场发布需通过 WorkBuddy 开放平台，上传、审核状态以后台为准；本仓库不表示已获官方推荐。

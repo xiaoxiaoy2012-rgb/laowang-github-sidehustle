@@ -11,11 +11,13 @@
 | Codex 新会话自动发现与独立调用 | 待验证 |
 | WorkBuddy 客户端导入及运行 | 待验证 |
 | GitHub 公开仓库发布 | 已发布源码与 v0.1.0 公开测试版，两份安装包可下载 |
-| WorkBuddy 市场提交与审核 | 2026-11-12 已提交，审核中；技能 ID `os_d494f1fe927298c1` |
+| WorkBuddy 市场提交与审核 | 2026-11-12 审核通过并公开发布 v0.1.0；技能 ID `os_d494f1fe927298c1` |
 | 客户需求与付费转化 | 尚未验证 |
 
-市场包已获平台解析并接收，审核中；提交回执提示预计 7 个工作日内出结果。审核通过与正式上架仍待核验。
+开放平台显示「已发布 · 公开」，公开分享页已核验技能名称、版本及开发者昵称「中年老王学AI」。客户端安装与完整运行仍待验证。
 
 源码：https://github.com/xiaoxiaoy2012-rgb/laowang-github-sidehustle
 
 安装包：https://github.com/xiaoxiaoy2012-rgb/laowang-github-sidehustle/releases/tag/v0.1.0
+
+WorkBuddy：https://www.workbuddy.cn/share/asset?shareCode=jdLxbnlcyWSiZkLIXY830Z&sig=EuU821gq6aEGfk4Z
