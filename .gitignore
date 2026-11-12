@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+runs/
+dist/
+examples/live-run/
+editorial/
